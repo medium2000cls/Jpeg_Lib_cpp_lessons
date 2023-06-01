@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="imgconv jpeg-&gt;ppm" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;D:\LearnProjects\JPEG_LIB\test\reading_dog.jpg&quot; &quot;D:\LearnProjects\JPEG_LIB\test\reading_dog_test.ppm&quot;" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Negate" TARGET_NAME="imgconv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Negate" RUN_TARGET_NAME="imgconv">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
