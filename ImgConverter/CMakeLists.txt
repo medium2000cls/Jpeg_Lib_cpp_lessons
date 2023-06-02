@@ -12,7 +12,5 @@ else()
 endif()
 
 add_executable(imgconv main.cpp)
-
 target_include_directories(imgconv PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/../ImgLib")
-
 target_link_libraries(imgconv ImgLib ${SYSTEM_LIBS})
